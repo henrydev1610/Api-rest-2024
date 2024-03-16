@@ -81,6 +81,18 @@ class userController {
 
     return res.json();
   }
+
+
+    
+
+
+
+
+
+
+
+
+
 }
 
 module.exports = userController;
